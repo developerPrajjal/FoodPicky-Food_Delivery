@@ -24,5 +24,4 @@ To access admin portal type this in your URL BAR **\`root**/admin/ \`  where **r
 Software : XAMPP / Wamp / Mamp/ Lamp \(anyone\).
 
 
-# For more projects, stay tuned... ☺️
 
